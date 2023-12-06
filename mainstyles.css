@@ -1,0 +1,23 @@
+body {
+    background-color: #f2f2f2 !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.nav-item a {
+    color: white !important;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto;
+        flex-direction: column;
+    }
+}
+
+.footer-item {
+    list-style-type: none;
+}

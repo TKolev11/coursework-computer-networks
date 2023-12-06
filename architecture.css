@@ -1,0 +1,75 @@
+header h1 {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.architecture p {
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.structural {
+    margin-left: 50px;
+}
+
+.structural h2 {
+    font-weight: bold;
+}
+
+.structural p {
+    width: 45%;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.pic {
+    text-align: right;
+
+}
+
+.features {
+    text-align: right;
+    padding-bottom: 30px;
+    margin-right: 50px;
+}
+
+.features h2 {
+    font-weight: bold;
+}
+
+.features ul {
+    font-weight: 500;
+    font-size: 22px;
+    list-style-type: none;
+}
+
+.features p {
+    font-weight: 500;
+    font-size: 22px;
+}
+
+
+footer {
+    background-color: #212529;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 3.5rem;
+}
+
+footer p {
+    text-align: center;
+    margin: 0;
+    line-height: 3.5rem;
+}
