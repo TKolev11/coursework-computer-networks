@@ -25,7 +25,8 @@ footer p {
     font-size: 22px;
 }
 
-.info p {
+.info1 p,
+.info2 p {
     width: 45%;
     font-weight: 500;
     font-size: 22px;
@@ -38,8 +39,13 @@ h2 {
     margin-left: 55px !important;
 }
 
-.info ul {
+.info1 ul,
+.info2 ul {
     margin-left: 55px;
     font-weight: 500;
     font-size: 18px;
+}
+
+.info2 {
+    margin-top: 135px;
 }
